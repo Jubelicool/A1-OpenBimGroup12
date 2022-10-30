@@ -33,5 +33,4 @@ The input data for our use case is the room bouderies, the construction material
 Partly LCA awaits, but still these two use cases should be done in colaboration. In reality LCA would weight more than the room acoustics and the same applies for the indoore climate. Therefore only the digital twin awaits for our use case to complete. 
 
 ### BPMN
-![Alt text](BPMN.svg)
-<img src=" img/name_of_svg_file.svg ">
+![BPMN workflow](BPMN.svg)
